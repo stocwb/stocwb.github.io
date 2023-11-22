@@ -1,0 +1,15 @@
+
+	.list {margin-top:20px; }
+	.list .media{border-bottom:1px solid #e3e3e3;}
+
+.page { text-align:right; padding:20px;}
+.page a { text-align:center; color:#000000; background:#FFFFFF; display:inline-block; margin-right:5px; padding:5px 10px; border:1px solid #e3e3e3;}
+.page a:hover,.page a.on { background:#0d7ab9; color:#FFFFFF;}
+
+
+
+
+
+
+
+
